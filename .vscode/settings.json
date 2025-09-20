@@ -1,0 +1,12 @@
+{
+  "editor.fontSize": 16,
+  "editor.fontFamily": "JetBrains Mono",
+  "files.associations": {
+    ".env.*": "dotenv",
+    ".prettierrc": "json",
+    "*.css": "postcss",
+    ".dev.vars": "dotenv",
+    "*.ndjson": "jsonl",
+    "stdio.h": "c"
+  }
+}
