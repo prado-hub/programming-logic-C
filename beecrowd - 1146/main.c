@@ -9,16 +9,11 @@ int main()
     scanf("%d", &x);
     if (x != 0)
     {
-      for (size_t i = 1; i < x; i++)
+      for (int i = 1; i < x; i++)
       {
         printf("%d ", i);
       }
-      printf("%d", x);
-      printf("\n");
-    }
-    else
-    {
-      break;
+      printf("%d\n", x);
     }
   } while (x != 0);
 
